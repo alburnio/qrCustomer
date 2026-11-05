@@ -6,7 +6,7 @@ window.MYBIZ_CONFIG = {
   settings: {
     name: "Nama Kedai Anda",
     hours: "Setiap hari, 10:00 pagi - 9:00 malam",
-    phone: "012-345 6789",          // <-- tukar nombor telefon di sini
+    phone: "019-2993681",          // <-- tukar nombor telefon di sini
     announcement: "Selamat datang! Tempah dengan mudah di sini.",
     deliveryFee: 5,                 // caj penghantaran (RM)
     minOrder: 10,                   // pesanan minimum (RM)
