@@ -24,7 +24,7 @@ window.MYBIZ_CONFIG = {
   // Guna huruf kecil, tanpa ruang, saiz kurang 300KB.
   products: [
     { id: "p1", name: "Nasi Ayam Goreng", category: "nasi", price: 9.5, popular: true, stock: null,
-      description: "Nasi putih dengan ayam goreng berempah.", image: "", emoji: "🍗", hue: 28 },
+      description: "Nasi putih dengan ayam goreng berempah.", image: "nasi-ayam-balado-telur-mata.png", emoji: "🍗", hue: 28 },
     { id: "p2", name: "Teh Tarik", category: "minuman", price: 3, popular: true, stock: null,
       description: "Teh tarik panas atau sejuk.", image: "", emoji: "🧋", hue: 35 }
   ]
